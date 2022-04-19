@@ -58,19 +58,19 @@
     "url": "https://forum.asqatasun.org/",
     "icon": "https://favicons.githubusercontent.com/forum.asqatasun.org",
     "slug": "asqatasun-forum",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1027,
-    "timeDay": 810,
-    "timeWeek": 1009,
-    "timeMonth": 1027,
-    "timeYear": 1027,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 1055,
+    "timeDay": 1184,
+    "timeWeek": 1077,
+    "timeMonth": 1055,
+    "timeYear": 1055,
     "dailyMinutesDown": {
-      "2022-04-19": 0
+      "2022-04-19": 42
     }
   }
 ]
